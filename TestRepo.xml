@@ -13,5 +13,6 @@
   <default revision="master" remote="github"  sync-j="4" />
 
   <project name="SRA-TEST2-REPO"           path="Application/Test1"                revision="refs/heads/main" />
+  <project name="DME-test-repo"           path="Application/Test2"                revision="refs/heads/main" />
   
 </manifest>
