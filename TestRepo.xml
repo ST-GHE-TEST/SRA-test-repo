@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--
+    BRIEF:      SRA Testing Repo
+    MAINTAINER: Luca Pezzoni <luca.pezzoni@st.com>
+  -->
+
+  <!-- Github repositories -->
+  <remote name="github"     fetch="https://github.com/ST-GHE-TEST/" />
+
+  <!-- Default remote -->
+  <default revision="master" remote="github"  sync-j="4" />
+
+  <project name="SRA-TEST2-REPO"           path="Application/Test1"                revision="refs/heads/master" />
+  
+</manifest>
