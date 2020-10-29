@@ -12,6 +12,6 @@
   <!-- Default remote -->
   <default revision="master" remote="github"  sync-j="4" />
 
-  <project name="SRA-TEST2-REPO"           path="Application/Test1"                revision="refs/heads/master" />
+  <project name="SRA-TEST2-REPO"           path="Application/Test1"                revision="refs/heads/main" />
   
 </manifest>
